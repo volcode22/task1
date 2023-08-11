@@ -1,1 +1,21 @@
-
+commands :
+cd
+ls
+ls -a
+tar -xf 
+file
+mv
+gunzip
+find -H
+bunzip2
+cat
+find -size
+-------------
+steps :
+1-downlod the file and unzip the file
+2-show the hidden file and extarct it
+3-search for the extinsion, rename the file, gunzip and extract it
+4-search which directory contains the file
+5-search for the extinsion, bunzip2 and extract it
+6-open the link to know the size of targeted file
+7-search with size and finally catch it !!
