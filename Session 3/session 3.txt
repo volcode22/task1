@@ -1,1 +1,25 @@
-
+commands :
+sudo
+adduser
+usermod -aG
+su
+mkdir
+cd
+touch
+chmod
+a+rw
+u+rw
+g+rx
+chown
+kill
+killall
+ps
+apt install
+apt remove
+steps :
+1-creating new user, group then add user to the group and switch the user
+2-making new directory and 3 files into it , give specific permissions to the files
+3-changing the owner and group
+4-open sleep 1000 then kill it using PID, open vim then kill it using its name
+5-install neofetch
+6-remove neofetch
